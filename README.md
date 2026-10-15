@@ -2,7 +2,7 @@
 
 ```bash
 $ uv sync                                     # Sync dependencies
-$ ./apply-filter.sh                           # Setup Jupyter Notebook filter
+$ ./setup.sh                                  # Setup Jupyter workspace and NLTK
 $ uv run --directory practicals/ jupyter lab  # Run Jupyter Lab
 ```
 
