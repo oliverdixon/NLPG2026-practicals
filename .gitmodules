@@ -1,0 +1,3 @@
+[submodule "ipynb_output_filter"]
+	path = ipynb_output_filter
+	url = git@github.com:toobaz/ipynb_output_filter.git
