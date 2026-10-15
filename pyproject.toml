@@ -1,0 +1,18 @@
+[project]
+name = "nlp"
+version = "0.1.0"
+description = "Natural Language Processing 2026/27 Practicals"
+readme = "README.md"
+authors = [
+    { name = "Oliver Dixon", email = "od641@york.ac.uk" }
+]
+requires-python = ">=3.14"
+dependencies = [
+    "jupyterlab>=4.6.4",
+    "matplotlib>=3.11.2",
+    "nltk>=3.10.3",
+    "pandas>=3.0.6",
+    "scikit-learn>=1.9.1",
+    "seaborn>=0.13.2",
+]
+
